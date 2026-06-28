@@ -1,0 +1,5 @@
+Blood Wings;2100.0;10
+Holy Crystal;1600.0;15
+Genius Wand;2000.0;20
+Lightning Truncheon;2250.0;12
+Ice Queen Wand;1490.0;25
